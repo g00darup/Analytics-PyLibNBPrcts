@@ -1,0 +1,20 @@
+https://www.sisense.com/blog/r-python-101-data-cleaning/
+
+GraphViz, XGGboost, MLLIb (https://learning-oreilly-com.sclibrary.idm.oclc.org/videos/data-science-and/9781787127081/) Hands on ML
+KNIME (https://learning-oreilly-com.sclibrary.idm.oclc.org/videos/data-science-and/9781801073288/)
+
+
+https://learning-oreilly-com.sclibrary.idm.oclc.org/library/view/hands-on-big-data/9781838644130/
+
+https://learning-oreilly-com.sclibrary.idm.oclc.org/library/view/fundamentals-of-data/9781098108298/
+
+
+
+Data Cleaning
+https://learning-oreilly-com.sclibrary.idm.oclc.org/library/view/data-cleaning-and/9781803241678/
+https://learning-oreilly-com.sclibrary.idm.oclc.org/library/view/cleaning-data-for/9781801071291/
+https://learning-oreilly-com.sclibrary.idm.oclc.org/library/view/statistical-data-cleaning/9781118897157/
+
+https://learning-oreilly-com.sclibrary.idm.oclc.org/library/view/data-wrangling-with/9781789800111/
+https://learning-oreilly-com.sclibrary.idm.oclc.org/library/view/python-data-cleaning/9781800565661/
+https://github.com/PacktPublishing/Python-Data-Cleaning-Cookbook

@@ -1,0 +1,34 @@
+merge
+isna
+fillna (use diff fill stragtegies knn etc)
+delete missing row, isnull, what happened, domain knowledge
+
+
+check if things are matching eg if merging 2 df with playername
+
+str.lower.contains within the data frame
+
+df.loc
+
+df.drop
+
+df.loc and replace (eg dallas by okc)
+
+df.player
+find duplicated
+
+
+df_copy and copy a dataframe
+
+df.index and drop (investigate, detective)
+================================================================
+
+Analysis
+
+value_counts()
+sort_value()
+divide or find some cool ratios, percentage
+groupBy (3pointer accuracy, 3PA, etc)
+categorize
+max_points in team (do some for loop, write lambda, generator and accumalotor)
+do more complicated groupby with code
